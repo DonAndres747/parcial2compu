@@ -87,7 +87,7 @@ x=-10;
       };*/     
       
 
-      machine.position.x=bola.position.x;
+      machine.position.x=jugador.position.x*-1;
     }
     
     animate();
